@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Effective JavaScript",
+    "price": "$21.99",
+    "image": "https://itbook.store/img/books/9780321812186.png",
+    "url": "https://itbook.store/books/9780321812186",
+    "isbn13": "9780321812186"
+  },
+  {
+    "title": "Beginning JavaScript, 3nd Edition",
+    "price": "$19.02",
+    "image": "https://itbook.store/img/books/9781484243947.png",
+    "url": "https://itbook.store/books/9781484243947",
+    "isbn13": "9781484243947"
+  },
+  {
+    "title": "Learn Enough JavaScript to Be Dangerous",
+    "price": "$31.98",
+    "image": "https://itbook.store/img/books/9780137843749.png",
+    "url": "https://itbook.store/books/9780137843749",
+    "isbn13": "9780137843749"
+  },
+  {
+    "title": "Test-Driven JavaScript Development",
+    "price": "$10.29",
+    "image": "https://itbook.store/img/books/9780321683915.png",
+    "url": "https://itbook.store/books/9780321683915",
+    "isbn13": "9780321683915"
+  },
+  {
+    "title": "Learning JavaScript",
+    "price": "$8.99",
+    "image": "https://itbook.store/img/books/9780321832740.png",
+    "url": "https://itbook.store/books/9780321832740",
+    "isbn13": "9780321832740"
+  },
+  {
+    "title": "jQuery and JavaScript Phrasebook",
+    "price": "$14.48",
+    "image": "https://itbook.store/img/books/9780321918963.png",
+    "url": "https://itbook.store/books/9780321918963",
+    "isbn13": "9780321918963"
+  },
+  {
+    "title": "JavaScript: The Good Parts",
+    "price": "$4.37",
+    "image": "https://itbook.store/img/books/9780596517748.png",
+    "url": "https://itbook.store/books/9780596517748",
+    "isbn13": "9780596517748"
+  },
+  {
+    "title": "Head First JavaScript",
+    "price": "$7.72",
+    "image": "https://itbook.store/img/books/9780596527747.png",
+    "url": "https://itbook.store/books/9780596527747",
+    "isbn13": "9780596527747"
+  },
+  {
+    "title": "High Performance JavaScript",
+    "price": "$19.59",
+    "image": "https://itbook.store/img/books/9780596802790.png",
+    "url": "https://itbook.store/books/9780596802790",
+    "isbn13": "9780596802790"
+  },
+  {
+    "title": "Building iPhone Apps with HTML, CSS, and JavaScript",
+    "price": "$5.00",
+    "image": "https://itbook.store/img/books/9780596805784.png",
+    "url": "https://itbook.store/books/9780596805784",
+    "isbn13": "9780596805784"
+  }
+]
