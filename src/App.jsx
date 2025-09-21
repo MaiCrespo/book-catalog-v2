@@ -1,6 +1,6 @@
 import "./App.css";
 import data from "../data/books.json";
-import Book from "./components/book";
+import Book from "./components/book.jsx";
 import AddCard from "./components/AddCard";
 
 export default function App() {
